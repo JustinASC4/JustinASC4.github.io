@@ -6,7 +6,7 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-image: url("https://68.media.tumblr.com/46011313fe70d67a19b2fe02e78c1261/tumblr_o7ybstdOlD1sori6yo1_540.gif");
+    background-image: url("https://cdn-images-1.medium.com/max/1600/1*oqQEtnykngI4TBno8q9IeA.gif");
     color: white;
     background-position: center;
     background-size: cover;
@@ -246,5 +246,5 @@ footer {
 }
 
 ::selection{
-    color: blueviolet;
+    color: black;
 }
